@@ -1,6 +1,10 @@
 # svelte starter
 
-# forked and modify by this
+## 주의점
+firefox에서는 HMR이 동작하지 않음. chrome으로 개발
+
+
+## forked and modify by this
 [github](https://github.com/iljoo/svelte-tailwind-parcel-starter)
 
 [blog](https://dev.to/ism/svelte-tailwind-parcel-awesome-4891)

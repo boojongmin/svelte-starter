@@ -24,5 +24,8 @@
     "svelte": "^3.20.1",
     "tailwindcss": "^1.2.0",
     "tailwindcss-font-inter": "^1.0.8"
+  },
+  "dependencies": {
+    "svelte-spa-router": "^2.1.0"
   }
 }
