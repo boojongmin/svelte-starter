@@ -26,6 +26,6 @@
     "tailwindcss-font-inter": "^1.0.8"
   },
   "dependencies": {
-    "svelte-spa-router": "^2.1.0"
+    "svelte-spa-router": "^2.2.0"
   }
 }
